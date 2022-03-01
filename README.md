@@ -1,2 +1,2 @@
 # modeloPrimeiroJSF
- Para usar quando começar um projeto JSF
+ usar quando começar um projeto JSF
